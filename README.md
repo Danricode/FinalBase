@@ -1,4 +1,4 @@
-# FireBaseProject
+# FinalBase
 
 This is a barebones React Native implementation of Firebase's auth feature.
 It follows closely the tutorial given in this link: 
